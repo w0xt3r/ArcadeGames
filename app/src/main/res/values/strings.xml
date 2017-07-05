@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Arcade Games</string>
+    <string name="space_invaders">Space Invader</string>
+    <string name="arkanoid">Arkanoid</string>
 </resources>
